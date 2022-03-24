@@ -63,7 +63,7 @@ Topics for Paper 3
 2.  Forman, Paul. "Behind Quantum Electronics: National Security As Basis for Physical Research in the United States, 1940–1960." H_istorical Studies in the Physical and Biological Sciences_ 18 (1987): 149-229.
 3.  Galison, Peter, and Barton Bernstein. "'In Any Light': Scientists and the Decision to Build the Hydrogen Bomb." _Historical Studies in the Physical and Biological Sciences_ 19 (1989): 267–347.
 4.  Wang, Jessica. "[Science, Security, and the Cold War: The Case of E. U. Condon](http://www.jstor.org/pss/234506)." _Isis_ 83 (1992): 238–69.
-5.  Kaiser, David. "The Atomic Secret in Red Hands? American Suspicions of Theoretical Physicists During the Early Cold War." _Representations_ 90 (2005): 28–60. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/dikaiser/www/Kaiser.RedTheorists.pdf))
+5.  Kaiser, David. "The Atomic Secret in Red Hands? American Suspicions of Theoretical Physicists During the Early Cold War." _Representations_ 90 (2005): 28–60. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.RedTheorists.pdf))
 6.  Freire, Olival. "Science and Exile: David Bohm, the Cold War, and a New Interpretation of Quantum Mechanics." _Historical Studies in the Physical and Biological Sciences_ 36 (2005): 1–34.
 7.  Kaiser, David. "The Physics of Spin: Sputnik Politics and American Physicists in the 1950s." _Social Research_ 73 (2006): 1225–52.
 

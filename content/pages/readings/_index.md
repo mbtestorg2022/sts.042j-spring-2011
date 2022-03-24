@@ -421,7 +421,7 @@ The Rise of Big Science
 
 
 *   Morrison, Philip. "[The Laboratory Demobilizes](http://books.google.co.in/books?id=WgwAAAAAMBAJ&pg=PA5&lpg=PA5&dq=The+Laboratory+Demobilized+by+philip+morrison&source=bl&ots=QS-Ozbt5MJ&sig=pM1GT_oQa1_kT5h6yZXrdp4QijM&hl=en&ei=iq7DTpaNMs7rrQfQq4DLCw&sa=X&oi=book_result&ct=result&resnum=8&ved=0CEIQ6AEwBw#v=onepage&q&f=false)." _Bulletin of the Atomic Scientists_ 2 (1946): 5–6.
-*   Kaiser, David. "The Postwar Suburbanization of American Physics." _American Quarterly_ 56 (2004): 851–88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/dikaiser/www/Kaiser.Suburbs.pdf))
+*   Kaiser, David. "The Postwar Suburbanization of American Physics." _American Quarterly_ 56 (2004): 851–88. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.Suburbs.pdf))
 *   Kaiser, David. "Training Quantum Mechanics." _Physics World_ 20 (2007): 28–33.
 
 
@@ -501,7 +501,7 @@ The Birth of Particle Cosmology
 {{< tdopen >}}
 
 
-*   Kaiser, David. "When Fields Collide." _Scientific American_ 296 (2007): 62–9. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/dikaiser/www/Kaiser.FieldsCollide.pdf))
+*   Kaiser, David. "When Fields Collide." _Scientific American_ 296 (2007): 62–9. ([PDF](http://web.mit.edu/dikaiser/www/Kaiser.FieldsCollide.pdf))
 
 
 {{< tdclose >}}
